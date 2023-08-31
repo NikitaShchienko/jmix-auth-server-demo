@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <excludeFolder url="file://$MODULE_DIR$/backend/.jmix" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/.jmix/conf" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/.jmix/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/.jmix/work" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/frontend/generated" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/src/main/dev-bundle" />
+    </content>
+  </component>
+  <component name="JmixProjectModulesStateV2">
+    <option name="hasState" value="true" />
+    <option name="moduleState">
+      <JmixModuleStateV2>
+        <option name="artifactGroup" value="io.jmix" />
+        <option name="artifactVersion" value="0.0.1-SNAPSHOT" />
+        <option name="buildFilePath" value="$MODULE_DIR$/build.gradle" />
+        <option name="buildSystemName" value="Gradle" />
+        <option name="jmixVersion" value="2.1.999-SNAPSHOT" />
+        <option name="mavenLocalURI" value="file:$MAVEN_REPOSITORY$/" />
+        <option name="moduleName" value="jmix-auth-server-demo" />
+        <option name="rootBuildFilePath" value="$MODULE_DIR$/build.gradle" />
+        <option name="rootProjectName" value="jmix-auth-server-demo" />
+        <option name="stateRepositories">
+          <Repository url="https://repo.maven.apache.org/maven2/" />
+        </option>
+      </JmixModuleStateV2>
+    </option>
+  </component>
+</module>
