@@ -57,3 +57,10 @@ spring.security.oauth2.authorizationserver.client.myclient.registration.redirect
 spring.security.oauth2.authorizationserver.client.myclient.token.access-token-format=reference
 spring.security.oauth2.authorizationserver.client.myclient.require-proof-key=true
 ```
+
+**Start**
+```
+./gradlew bootRun   
+```
+
+Backend available on: http://localhost:8080
